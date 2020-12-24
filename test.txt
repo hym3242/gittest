@@ -1,0 +1,33 @@
+Nmap scan report for 202.204.175.202
+Host is up (0.0044s latency).
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+
+Nmap scan report for 202.204.175.209
+Host is up (0.0031s latency).
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for 202.204.175.210
+Host is up (0.0054s latency).
+PORT   STATE SERVICE
+80/tcp open  http
+80/tcp open  http
+80/tcp open  http
+80/tcp open  http
+80/tcp open  http
+80/tcp open  http
+80/tcp open  http
+80/tcp open  http
+80/tcp open  http
+80/tcp open  http
+80/tcp open  http
+80/tcp open  http
+80/tcp open  http
+80/tcp open  end
+
+
+Nmap scan report for 10.10.91.3
+Host is up (0.0053s latency).
+All 100 scanned ports on 10.10.91.3 are filtered
